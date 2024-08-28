@@ -1,2 +1,2 @@
-# JyotiPortfolio
-Portfolio
+# JyotiPortfolio.
+Portfolio - Full Stack Development
